@@ -1,5 +1,7 @@
 ###Web application with SpringBoot
 
-*Check application.properties
-*Maven - install
-*Run with spring boot app you are done.
+#### How To Run
+* Check application.properties for database configuration
+* Maven install (to install libraries)
+* Run project with SpringBoot application class(it will create database).
+
